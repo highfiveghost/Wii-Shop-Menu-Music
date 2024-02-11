@@ -1,0 +1,10 @@
+{
+  "name": "Wii Shop Menu Music",
+  "description": "Wii Shop Channel music found on the Nintendo Wii Console",
+  "author": "highfiveghost",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
